@@ -1,0 +1,17 @@
+staticfiles/*
+/media/*
+static/*
+back_media/*
+back_static/*
+.idea/*
+manga/migrations/00*.py
+users/migrations/00*.py
+db.sqlite3
+.venv/*
+.idea/
+back_media/
+static/
+media/
+venv/
+*.pyc
+__pycache__
